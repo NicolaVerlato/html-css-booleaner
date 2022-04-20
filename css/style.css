@@ -23,7 +23,7 @@
 h1{
     margin-top: 15px;
 }
-.sottotitolo{
+.trasparente{
     color: rgba(0, 0, 0, 0.5)
 }
 .color-blue{
@@ -53,13 +53,39 @@ h1{
 .tabella{
     margin-bottom: 30px;
 }
+.intestazione-tabella{
+    text-align: left;
+}
 .dispari{
     background-color: #b2e5f2;
 }
 .ultima-colonna{
-    margin-left: 50px;
+    width: 50%;
 }
 .intestazione-tabella{
     background-color: #1faae5;
     color: white;
+}
+
+/* footer */
+.titolo-footer{
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: 800;
+    margin-top: 30px;
+}
+.prima-immagine{
+    background-image: url(../img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+}
+.seconda-immagine{
+    background-image: url(../img/graph.jpg);
+    width: 300px;
+    height: 200px;
+}
+.testo-immagine{
+    color: white;
+    font-weight: 800;
+    margin-top: 10px;
+    margin-left: 10px;
 }
