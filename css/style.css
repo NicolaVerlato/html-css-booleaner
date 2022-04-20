@@ -35,3 +35,31 @@ h1{
 .descrizione-foto{
     font-size: 13px;
 }
+
+/* paragrafo con elenco */
+.descrizione{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.highlighted{
+    background-color: yellow;
+}
+.lista{
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+/* tabella */
+.tabella{
+    margin-bottom: 30px;
+}
+.dispari{
+    background-color: #b2e5f2;
+}
+.ultima-colonna{
+    margin-left: 50px;
+}
+.intestazione-tabella{
+    background-color: #1faae5;
+    color: white;
+}
