@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color: #4e9fff;
+    background-image: url(../img/pattern.png);
+    height: 170px;
+}
+.img-booleaner{
+    width: 300px;
+    margin-top: 70px;
+}
+
