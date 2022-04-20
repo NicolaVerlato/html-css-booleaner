@@ -12,7 +12,7 @@
 }
 .img-booleaner{
     width: 300px;
-    margin-top: 70px;
+    margin-top: 80px;
 }
 
 /* Main */
@@ -44,12 +44,17 @@ h1{
 .highlighted{
     background-color: yellow;
 }
+
+/* lista */
 .lista{
-    margin-left: 20px;
+    margin-left: 15px;
     margin-bottom: 30px;
 }
 
 /* tabella */
+table{
+    border-spacing: 0;
+}
 .tabella{
     margin-bottom: 30px;
 }
@@ -88,4 +93,5 @@ h1{
     font-weight: 800;
     margin-top: 10px;
     margin-left: 10px;
+    padding-top: 15px;
 }
